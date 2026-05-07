@@ -6,6 +6,8 @@ Shortcut Finder is a self-contained browser app for searching keyboard shortcuts
 
 ## Usage
 
+Open the live app at <https://stochastropy.com/shortcuts/>.
+
 Open `index.html` in a modern browser. There is no build step, package install, or local server required.
 
 ## Project Structure
